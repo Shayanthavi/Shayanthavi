@@ -1,10 +1,10 @@
 # 💻 Hi, I'm Shayanthavi Tharmananthan 
 ### 🚀 Computer Engineering Student | Full-Stack Developer | UI/UX Enthusiast
 
-📧 **Email:** [sayanthavitharmaal3@gmail.com](mailto:sayanthavitharmaal3@gmail.com)  
+📧 **Email:** [sayanthavitharmaal3@gmail.com](mailto:sayanthavitharmaa13@gmail.com)  
 📞 **Phone:** +94 76 365 0199  
 📍 **Location:** Galle, Sri Lanka  
-🔗 **GitHub:** [Shayanthav](https://github.com/Shayanthavi)  
+🔗 **GitHub:** [Shayanthavi](https://github.com/Shayanthavi)  
 
 ---
 
