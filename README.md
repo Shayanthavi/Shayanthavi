@@ -4,7 +4,7 @@
 📧 **Email:** [sayanthavitharmaal3@gmail.com](mailto:sayanthavitharmaal3@gmail.com)  
 📞 **Phone:** +94 76 365 0199  
 📍 **Location:** Galle, Sri Lanka  
-🔗 **GitHub:** [Shayanthav](https://github.com/Shayanthav)  
+🔗 **GitHub:** [Shayanthav](https://github.com/Shayanthavi)  
 
 ---
 
@@ -52,10 +52,9 @@
 
 ---
 
-### 📊 GitHub Analytics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shayanthav&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Shayanthav)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanthav&layout=compact&theme=radical&hide_border=true&hide=html,css)](https://github.com/Shayanthav)  
-
+## 📊 GitHub Analytics
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shayanthavi&show_icons=true&theme=radical&hide_border=true)](https://github.com/Shayanthavi)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayanthavi&layout=compact&theme=radical&hide_border=true)](https://github.com/Shayanthavi)  
 ---
 
 ### 🎨 Beyond Code  
@@ -67,7 +66,7 @@
 
 ### 📬 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
-[![Visitors](https://komarev.com/ghpvc/?username=Shayanthav&color=blueviolet&label=Profile+Views)](https://github.com/Shayanthav)  
+
+
+[![Visitors](https://komarev.com/ghpvc/?username=Shayanthav&color=blueviolet&label=Profile+Views)](https://github.com/Shayanthavi)  
